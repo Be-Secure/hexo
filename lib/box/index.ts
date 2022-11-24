@@ -284,4 +284,4 @@ function readDirWalker(base, results, ignore, prefix) {
   });
 }
 
-export default Box;
+export = Box;
